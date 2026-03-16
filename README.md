@@ -10,6 +10,12 @@ This app fetches real-time exchange rates and allows users to convert currencies
 
 ---
 
+## 📸 Project Preview
+
+![App Screenshot](currency-convert.png)
+
+This is a React based currency converter with swap functionality.
+
 ## 🚀 Features
 
 - 💱 Convert one currency to another
